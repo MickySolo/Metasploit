@@ -1,7 +1,7 @@
                          Metasploit
               ® (2018-2019) by.Micky Verma
 
-     <img scr="https://raw.githubusercontent.com/MickySolo/Metasploit/master/PicsArt_08-13-04.51.54.png">
+     <img src="https://raw.githubusercontent.com/MickySolo/Metasploit/master/PicsArt_08-13-04.51.54.png">
 
 ______________________________________
 # Auto install MetasploitFramework with no error
