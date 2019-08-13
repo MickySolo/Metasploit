@@ -1,7 +1,7 @@
                          Metasploit
               ® (2018-2019) by.Micky Verma
               
- !(screenshot)https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbcQUAsoyXusvfkZzECvyaXaiIpUedQMQ2uGZIsV9iwQswrY9Q
+ !(screenshot)
 
     
 
