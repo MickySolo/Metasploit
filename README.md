@@ -1,7 +1,7 @@
                          Metasploit
               ® (2018-2019) by.Micky Verma
 
-     <img src="https://raw.githubusercontent.com/MickySolo/Metasploit/master/PicsArt_08-13-04.51.54.png">
+     <img scr="https://raw.githubusercontent.com/MickySolo/Metasploit/master/PicsArt_08-13-04.51.54.png">
 
 ______________________________________
 # Auto install MetasploitFramework with no error
@@ -17,7 +17,7 @@ Install git
 
 Clone / Download this repository from your terminal
 
-> git clone https://github.com/verluchie/termux-metasploit
+> git clone https://github.com/MickySolo/Metasploit
 
 Get in directory 
 
