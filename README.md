@@ -1,4 +1,7 @@
-![screenshot](https://2.bp.blogspot.com/-iflmrgWDkeY/WcLjEz8tAZI/AAAAAAAAAC0/wBF5nOKTVtAgDWnjbMGV0wsaKcIzhlBGwCLcBGAs/s1600/PicsArt_09-20-04.30.13.jpg)
+                         Metasploit
+              ® (2018-2019) by.Micky Verma
+
+     <img src="">
 
 ______________________________________
 # Auto install MetasploitFramework with no error
@@ -37,5 +40,4 @@ ______________________________________
 
 V3rluchie Team Blood Tears No Team Squad
 
-# For other tutorials
-https://www.squadcyber.com/
+
