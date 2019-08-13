@@ -11,37 +11,36 @@ ______________________________________
 ______________________________________
 # How to Use It
 
-Read this instruction :
+# Read this instruction :
 
 Install git
 
 > apt-get install git
 
-Clone / Download this repository from your terminal
+# Clone / Download this repository from your terminal
 
 > git clone https://github.com/MickySolo/Metasploit
 
-Get in directory 
+# Get in directory 
 
 > cd termux-metasploit
 
-Give Access Permission for install.sh
+# Give Access Permission for install.sh
 
 > chmod 777 install.sh
 
-And Then Install it
+# And Then Install it
 
 > sh install.sh
 
-After installed run from your terminal
+# After installed run from your terminal
 
 > msfconsole
 
 ______________________________________
+# Metasploit on Android
 
 <img src="https://raw.githubusercontent.com/MickySolo/Metasploit/master/images%20(9).jpeg">
-# Regard
 
-V3rluchie Team Blood Tears No Team Squad
 
 
